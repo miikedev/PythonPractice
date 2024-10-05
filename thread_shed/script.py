@@ -147,7 +147,7 @@ for i in thread_sold:
   thread_sold_split.append(j)
 
 def color_count(color):
-  count=0;
+  count=0
   for i in thread_sold_split:
     if color in i:
       count += 1

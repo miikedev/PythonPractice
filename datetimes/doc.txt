@@ -1,0 +1,9 @@
+* importing datetime module
+
+* creating a date using year, month and day as arguments
+
+* creating a date using datetime.now()
+
+* parsing a date using strptime
+
+* rendering a date as a string using strftime
